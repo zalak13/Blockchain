@@ -1,0 +1,12 @@
+	
+Address of the Wallet : n1mHDUM1XD4mF9stiMHVePKHaHz8W89QE1
+Amount Transfered: 3.9456629 bitcoins
+TESTNET TRANSACTION: 70d2300ef5f3cdb050647684d44875c3262083a3a6640aceb37168ecc2e27007
+	
+	how many outputs does the transaction have?
+Answer:
+	2 outputs
+	What is the purpose of the output that locks coins to the address that’s not yours?
+Answer:
+	Any input bitcoins not redeemed in an output is considered a transaction fee; whoever generates the block will get it.
+	So the purpose is that if input is more than the transaction amount, the rest of the amount is sent back to itself in order prevent losing in form of transaction fee.
