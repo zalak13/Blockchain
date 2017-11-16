@@ -1,0 +1,25 @@
+d7d1b912a9b0b468f08b4c678aabafa9e1a5119f6f68b9e23724b068bceb4ff8
+
+6dab311027d0ce847a394b1ade73cd7d6459cb89616223daf417c71be8d1a12e
+
+Double Spend - 7521545d5fea066f0b620e0c6787d18f6c97d712e0d77c89ef873e76afc37070
+
+4.
+
+063d2b83e548f946b027f9fc887469ec19a391aaee3f1ae0099170233d43b8b3
+
+0dd5546ea8a448d6c334fe3be0e37d8c741a8f306620d6bde5c03dd5977ec87d
+
+5.
+
+1d6d9ddd6c5bc3c7a3db113b406d84d8709358b527facbad2f525ac2511669ab
+5339def25ee859ec6ad5099c619adf002aed27d20798668b4833b397a17c9bb1
+
+
+07fec919a93849d330011484c39e1e3568a8adfd0b4de59b2faf462bc2e5642c
+
+
+6.
+
+The Testing of the cases has emptied the wallet so no need to send coins back.
+The wallet is in negative value so the Faucent transaction is not required
